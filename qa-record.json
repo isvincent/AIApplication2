@@ -1,0 +1,137 @@
+{
+  "course": "AI應用於教學活動學習任務的設計實務",
+  "exportedAt": "2026-10-15T01:36:03.814Z",
+  "settings": {
+    "sound": "off",
+    "device": "auto",
+    "layout": "auto",
+    "lang": "zh",
+    "font": "standard",
+    "theme": "system"
+  },
+  "read": [
+    358
+  ],
+  "bookmarks": [
+    358
+  ],
+  "notes": {
+    "358": "QA persistence note"
+  },
+  "events": [
+    {
+      "time": "2026-10-15T01:36:01.415Z",
+      "type": "session",
+      "detail": {
+        "page": 1
+      }
+    },
+    {
+      "time": "2026-10-15T01:36:01.958Z",
+      "type": "view",
+      "detail": {
+        "page": 358
+      }
+    },
+    {
+      "time": "2026-10-15T01:36:02.015Z",
+      "type": "view",
+      "detail": {
+        "page": 358
+      }
+    },
+    {
+      "time": "2026-10-15T01:36:02.021Z",
+      "type": "read",
+      "detail": {
+        "page": 358
+      }
+    },
+    {
+      "time": "2026-10-15T01:36:02.063Z",
+      "type": "bookmark",
+      "detail": {
+        "page": 358,
+        "active": true
+      }
+    },
+    {
+      "time": "2026-10-15T01:36:02.098Z",
+      "type": "session",
+      "detail": {
+        "page": 358
+      }
+    },
+    {
+      "time": "2026-10-15T01:36:02.581Z",
+      "type": "practice",
+      "detail": {
+        "task": "資訊圖表提示詞",
+        "text": "Learning objective: evaluate evidence. Steps: compare sources. Output: report. Reflect and revise.",
+        "checks": 1
+      }
+    },
+    {
+      "time": "2026-10-15T01:36:03.380Z",
+      "type": "quiz",
+      "detail": {
+        "score": 100,
+        "correct": 10,
+        "total": 10
+      }
+    }
+  ],
+  "attempts": [
+    {
+      "time": "2026-10-15T01:36:03.380Z",
+      "correct": 10,
+      "total": 10,
+      "score": 100,
+      "answers": [
+        {
+          "id": 11,
+          "answer": 0
+        },
+        {
+          "id": 0,
+          "answer": 0
+        },
+        {
+          "id": 3,
+          "answer": 2
+        },
+        {
+          "id": 1,
+          "answer": 1
+        },
+        {
+          "id": 4,
+          "answer": 2
+        },
+        {
+          "id": 9,
+          "answer": 1
+        },
+        {
+          "id": 8,
+          "answer": 1
+        },
+        {
+          "id": 10,
+          "answer": 1
+        },
+        {
+          "id": 14,
+          "answer": 1
+        },
+        {
+          "id": 2,
+          "answer": 1
+        }
+      ]
+    }
+  ],
+  "draft": "Learning objective: evaluate evidence. Steps: compare sources. Output: report. Reflect and revise.",
+  "page": 358,
+  "lastWrong": []
+}
